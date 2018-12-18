@@ -18,3 +18,9 @@ vignettes/*_files
 *.dropbox.attr
 
 docs/*
+
+/paper/paper.html
+
+/paper/paper.md
+
+/paper/paper.Rmd
